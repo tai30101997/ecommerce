@@ -1,0 +1,1 @@
+{"_id":{"$oid":"6928576c2518f0d54500a726"},"userId":2,"items":[{"productId":2,"name":"Samsung S23","price":899,"quantity":9,"subtotal":8091,"_id":{"$oid":"6928576c2518f0d54500a727"}}],"total":8091,"status":"Pending","createdDate":{"$date":"2025-11-27T13:51:40.140Z"},"updatedDate":{"$date":"2025-11-27T13:51:40.140Z"},"orderId":1,"__v":0}

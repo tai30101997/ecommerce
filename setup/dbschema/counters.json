@@ -1,0 +1,4 @@
+{"_id":{"$oid":"69284a03dc8c6a5f9391d623"},"model":"users","__v":0,"seq":2}
+{"_id":{"$oid":"69284a03dc8c6a5f9391d62a"},"model":"products","__v":0,"seq":10}
+{"_id":{"$oid":"6928532adc8c6a5f9391db28"},"model":"carts","__v":0,"seq":1}
+{"_id":{"$oid":"6928576cdc8c6a5f9391dd2f"},"model":"orders","__v":0,"seq":1}

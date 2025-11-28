@@ -125,7 +125,7 @@ CLIENT
 ###  Clone repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/tai30101997/ecommerce.git
 cd ecommerce-api
 ```
 
@@ -166,13 +166,15 @@ npm run dev
 FOR SIMPLE SET UP
 Import file:
 
+POSTMAN
 ```
 setup/postman/
    ecommerce.postman_collection.json
 ```
+NO-SQL TABLE
 ```
-setup/dbschema/
-   ecommerce.postman_collection.json
+setup/dbschema/ *.json 
+   
 ```
 Contains all API routes for:
 
@@ -180,7 +182,6 @@ Contains all API routes for:
 * Products
 * Cart
 * Orders
-* Admin operations
 
 ---
 
